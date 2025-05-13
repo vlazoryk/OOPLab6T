@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mainb\\OneDrive\\Desktop\\OOP\\C\u002B\u002B_GITHUB\\LAB_6\\task_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA6ED786-A244-49E9-8756-2F030403EB88}|task_3\\task_3.vcxproj|C:\\Users\\mainb\\OneDrive\\Desktop\\OOP\\C\u002B\u002B_GITHUB\\LAB_6\\task_3\\task_3\\task_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FA6ED786-A244-49E9-8756-2F030403EB88}|task_3\\task_3.vcxproj|solutionrelative:task_3\\task_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "task_3.cpp",
+              "DocumentMoniker": "C:\\Users\\mainb\\OneDrive\\Desktop\\OOP\\C\u002B\u002B_GITHUB\\LAB_6\\task_3\\task_3\\task_3.cpp",
+              "RelativeDocumentMoniker": "task_3\\task_3.cpp",
+              "ToolTip": "C:\\Users\\mainb\\OneDrive\\Desktop\\OOP\\C\u002B\u002B_GITHUB\\LAB_6\\task_3\\task_3\\task_3.cpp",
+              "RelativeToolTip": "task_3\\task_3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-12T18:17:08.336Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
